@@ -1,4 +1,4 @@
-# elfinabox
+# ELF IN A BOX
 This is the repository for the Elf in a Box project
 
 # UNDER DEVELOPMENT
